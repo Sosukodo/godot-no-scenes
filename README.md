@@ -7,7 +7,7 @@
 </p>
 
 ## Godot without Scenes
-IMHO, the word "Scene" in Godot is not the correct word. Instead, I believe the word "Object" should be used instead of "Scene". To that end, I plan on changing every occurrence of the word "Scene" with the word "Object" in the engine and editor.
+IMHO, the word "Scene" in Godot is not the correct word to describe what it is. Instead, I believe a less-confusing word should be used.
 
 ## 2D and 3D cross-platform game engine
 
